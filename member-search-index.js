@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"it.unisa.diem.wordageddon_g16","c":"WordageddonApp","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"it.unisa.diem.wordageddon_g16","c":"WordageddonApp","l":"start(Stage)","u":"start(javafx.stage.Stage)"},{"p":"it.unisa.diem.wordageddon_g16","c":"WordageddonApp","l":"WordageddonApp()","u":"%3Cinit%3E()"}];updateSearchResults();

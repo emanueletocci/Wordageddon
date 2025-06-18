@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"it.unisa.diem.wordageddon_g16","l":"WordageddonApp"}];updateSearchResults();
