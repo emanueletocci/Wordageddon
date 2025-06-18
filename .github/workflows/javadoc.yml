@@ -26,7 +26,7 @@ jobs:
           java-version: '17'
 
       - name: Generate Javadoc with Maven
-        run: mvn --batch-mode javadoc:javadoc
+        run: mvn --batch-mode javadoc:aggregate
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
